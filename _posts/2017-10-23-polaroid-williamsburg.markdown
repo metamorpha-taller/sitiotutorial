@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Polaroid Williamsburg"
+title: “C A M B I O”
 date: 2017-10-23
 description: 
-image: /assets/images/placeholder-9.jpg
+image: /assets/images/sara/IMG_9605.jpg
 author: Thomas Vaeth
 tags: 
   - Dummy Text
