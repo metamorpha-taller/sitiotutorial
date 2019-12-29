@@ -3,7 +3,7 @@ layout: post
 title: “C A M B I O”
 date: 2017-10-23
 description: 
-image: /assets/images/sara/IMG_9605.jpg
+image: 	/sitiotutorial/assets/images/sara/IMG_9605.jpg
 author: Thomas Vaeth
 tags: 
   - Dummy Text
