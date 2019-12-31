@@ -1,10 +1,10 @@
 ---
 layout: post
-title: “C A M B I O”
-date: 2017-10-23
+title: “PRIMER PUBLICACIÓN”
+date: 2019-12-31
 description: 
 image: /assets/images/sara/IMG_9605.JPG
-author: Thomas Vaeth
+author: Metamorpha 
 tags: 
   - Dummy Text
   - Moon Drinking
