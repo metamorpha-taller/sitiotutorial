@@ -3,7 +3,7 @@ layout: post
 title: "Unicorn Echo Park"
 date: 2017-10-11
 description: 
-image: /assets/images/placeholder-10.jpg
+image: /assets/images/sara/IMG_9605.JPG
 author: Thomas Vaeth
 tags: 
   - Mixtape
